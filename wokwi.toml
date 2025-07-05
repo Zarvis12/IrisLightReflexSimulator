@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = 'build/arduino.avr.uno/EYE_MEGA_BUILD.ino.hex'
+elf = 'build/arduino.avr.uno/EYE_MEGA_BUILD.ino.elf' # This line is optional but good for debugging
+rfc2217ServerPort = 4000
