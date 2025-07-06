@@ -1,8 +1,6 @@
 # IrisLightReflexSimulator
 A simulation project which simulates Light reflex pathway and it's lesions
 
-# Iris & Light Reflex Simulator
-
 # 👁️ Eye Model Simulation: Setup & Usage Guide
 
 This project provides an interactive simulation of the human pupillary light reflex using an Arduino Uno, LDR modules, servos, and LEDs. It features a Python-based Graphical User Interface (GUI) for real-time control and visualization, including the ability to simulate "lesions" in different neural pathways.
